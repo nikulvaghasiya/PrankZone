@@ -1,0 +1,18 @@
+{
+        "error":false,
+            "isNewApp":false,
+            "app_pkg":"downloader.mp3",
+            "AdmobBannr":"/21753324030,22492051893/nk.tubemusic.musicdownloader_Banner",
+            "AdmobInter":"/21753324030,22492051893/nk.tubemusic.musicdownloader_full",
+            "AdmobInterSplash":"/21753324030,22492051893/nk.tubemusic.musicdownloader_full",
+            "AdmobInter2":"ca-app-pub-3940256099942544/1033173712",
+            "AdmobNative":"/21753324030,22492051893/nk.tubemusic.musicdownloader_Native",
+            "AdmobNative2":"/21753324030,22492051893/nk.tubemusic.musicdownloader_Native",
+            "AdmobOpenAds":"/21753324030,22492051893/nk.tubemusic.musicdownloader_AppOpen",
+            "isMediation":"no",
+            "admob_pub_id":"pub-3940256099942544",
+            "admob_app_id":"ca-app-pub-3940256099942544~3026104813",
+            "is_vpn":"no",
+            "isAppOpen":"yes",
+            "adType":"admob"
+    }
