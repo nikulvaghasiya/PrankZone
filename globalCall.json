@@ -16,5 +16,7 @@
   "admob_pub_id": "pub-3380634588464539a",
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713a",
   "adType": "fb",
-  "adStatus": "admob"
+  "adStatus": "admob",
+  "adMobTime":10,
+  "fbAdTime":10
 }
